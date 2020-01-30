@@ -17,7 +17,7 @@ https://demo.qbills.com.ng/API/v1/payment/
 
 ## Installation
 
-simply run the command `composer require qbills/qbills` in your project.
+simply run the command `composer require qbills/qbills-php` in your project.
 
 ## Example
 
