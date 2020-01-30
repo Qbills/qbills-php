@@ -1,0 +1,20 @@
+{
+    "name": "qbills/qbills",
+    "description": "API Wrapper for Qbills.",
+    "license": "MIT",
+    "version": "0.1",
+    "authors": [
+        {
+            "name": "Qbills NG",
+            "email": "info@qbills.com.ng"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Qbills": "src/"
+        }
+    }
+}
