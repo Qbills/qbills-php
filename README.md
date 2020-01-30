@@ -25,7 +25,7 @@ simply run the command `composer require qbills/qbills-php` in your project.
 
 Initiate Class:
 ```
-$qb = new Qbills\Qbills("x-api-key", "https://demo.qbills.com.ng/API/v1/payment/");
+$qb = new Qbills\Qbills("x-api-key", "https://demo.qbills.com.ng/API/v1/payment");
 
 ```
 
