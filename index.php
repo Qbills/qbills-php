@@ -1,9 +1,9 @@
 <?php
 require 'vendor/autoload.php';
-require 'vendor/qbills/qbills-php/src/Qbills/Qbills.php';
+require 'vendor/qbills/qbills/src/Qbills.php';
 
 
-$qb = new Qbills\Qbills("NlB1L3QwYkNvbHFjQUhHa1YxdGc0dz09Ojp5lhen+Cw5GxcZReuqEcEU");
+$qb = new Qbills\Qbills("x-api-key");
 
 $json_initiate = '
 {
