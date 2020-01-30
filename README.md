@@ -1,6 +1,6 @@
 # qbills-php
 
-# PHP Wrapper for Qbills Payment API HTTP/1.1
+# API Wrapper for Qbills Payment HTTP/1.1
 
 APIs to accept payments on your website seamlessly, without compromise. Qbills was made for businesses like you to build amazing applications that accept online payments using a Nigerian Credit / Debit card.
 
